@@ -10,6 +10,5 @@ group :test do
   gem 'rake'
   gem 'puppet-lint'
   gem 'rspec-puppet'
-  gem 'puppet', puppetversion
 end
 
